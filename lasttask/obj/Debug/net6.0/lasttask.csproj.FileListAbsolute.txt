@@ -1,0 +1,15 @@
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.csproj.AssemblyReference.cache
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.AssemblyInfoInputs.cache
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.AssemblyInfo.cs
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.csproj.CoreCompileInputs.cache
+C:\Users\vlad-\Zadanie\finaltask\lasttask\bin\Debug\net6.0\lasttask.exe
+C:\Users\vlad-\Zadanie\finaltask\lasttask\bin\Debug\net6.0\lasttask.deps.json
+C:\Users\vlad-\Zadanie\finaltask\lasttask\bin\Debug\net6.0\lasttask.runtimeconfig.json
+C:\Users\vlad-\Zadanie\finaltask\lasttask\bin\Debug\net6.0\lasttask.dll
+C:\Users\vlad-\Zadanie\finaltask\lasttask\bin\Debug\net6.0\lasttask.pdb
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.dll
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\refint\lasttask.dll
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.pdb
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\lasttask.genruntimeconfig.cache
+C:\Users\vlad-\Zadanie\finaltask\lasttask\obj\Debug\net6.0\ref\lasttask.dll
